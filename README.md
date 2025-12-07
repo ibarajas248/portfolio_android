@@ -17,11 +17,12 @@ Sistema Android de **reproducción de video en modo kiosco** para pantallas dist
 - Dispositivos tipo **TV Box / Android TV / Tablet**
 
 **Stack:** Java · ExoPlayer · PHP · MySQL · LAN  
-🔗 Repositorio: [https://github.com/TU_USUARIO/video-kiosco-android  ](https://github.com/ibarajas248/videoRemoto)
+🔗 Repositorio: [Video Kiosco Android](https://github.com/ibarajas248/videoRemoto)
+
 
 ---
 
-## 🏭 ERP Textil Android — Producción & Control
+## ERP Textil Android — Producción & Control
 
 Aplicación ERP móvil para talleres textiles con control completo de procesos productivos en tiempo real.
 
